@@ -3,3 +3,63 @@
     padding: 0;
 }
 
+/* Common Styles */
+.bg-body {
+    background-color: #F5F5F5;
+}
+.bg-green {
+    background-color: #C6E4D6;
+}
+.bg-white {
+    background-color: #FFFFFF;
+}
+.bg-blue {
+    background-color: rgba(84, 144, 245, 0.2);
+}
+.bg-yellow {
+    background-color: #F7EBCF;
+}
+
+
+/* Banner Section */
+.banner-section {
+    border: 1px solid red;
+}
+
+/* Pillars of "Bangladesh 2.0" */
+.pillars-of-bangladesh {
+    border: 1px solid red;
+}
+
+
+/* The Vision of Future */
+.the-vision-of-future {
+    border: 1px solid red;
+}
+
+/* Quote Section */
+.quote-section {
+    border: 1px solid red;
+}
+
+
+/* Recent News */
+.recent-news {
+    border: 1px solid red;
+}
+
+
+/* Donate For Bangladesh */
+.donate-for-bangladesh {
+    border: 1px solid red;
+}
+
+
+/* Newsletter Section*/
+.newsletter-section {
+    border: 1px solid red;
+}
+
+footer {
+    border: 1px solid red;
+}
